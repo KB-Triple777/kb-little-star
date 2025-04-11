@@ -225,7 +225,7 @@ img {
 
 .start-prompt {
   position: absolute;
-  bottom: 9rem;
+  bottom: 5rem;
   width: 100%;
   display: flex;
   justify-content: center;
